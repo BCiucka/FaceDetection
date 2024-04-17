@@ -7,12 +7,15 @@ This repository contains the code and documentation for a face detection applica
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+
 - [License](#license)
 
 ## Introduction
 
-The face detection application utilizes the VGG16 convolutional neural network to detect faces in images. It follows a multi-phase training process, as described in the accompanying technical document ([Bionika.pdf](Bionika.pdf)), to achieve accurate face detection results.
+The face detection application utilizes the VGG16 convolutional neural network to detect faces in images.
+Whole process from implemetation to results is presented in this file [FaceDetection.pdf](https://github.com/BCiucka/FaceDetection/files/15010625/FaceDetection.pdf).
+
+
 
 ## Installation
 
@@ -50,9 +53,7 @@ Once the installation is complete, you can use the face detection application as
 
 3. View the results: The detected faces will be highlighted in the output images saved in the `output_images` directory.
 
-## Contributing
 
-Contributions to the face detection application are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
 ## License
 
